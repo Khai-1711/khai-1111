@@ -1,152 +1,153 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Nguyen Dinh Khai",
+    "email": "khai129031@gmail.com",
+    "phone": "010-8058-1701",
+    "website": "https://khai-1711.github.io/khai-1111",
+    "summary": "Master student at Hansung University with a background in Information Security and hands-on experience building Ethereum smart contracts and Web3 applications.",
     "location": {
-      "address": "",
+      "address": "Woncheon-dong",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Suwon",
+      "countryCode": "KR",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.com/citations?user=G1bNtDwAAAAJ&hl=engJ"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "khai-1711",
+        "url": "https://github.com/khai-1711"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/kh%E1%BA%A3i-nguy%E1%BB%85n-b8a15626a"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "VNS Exchange (Vietnam Startup)",
+      "position": "Blockchain / Frontend Developer",
+      "website": "",
+      "startDate": "2023-07-01",
+      "endDate": "2023-09-01",
+      "summary": "Core: TypeScript, Solidity, HTML, CSS. Technology: ETH, Hardhat, React.js, OpenZeppelin, Tailwind CSS.",
+      "highlights": [
+        "Coded the entire UI for an exchange web platform used for trading the VNSe token",
+        "Used OpenZeppelin's ERC20 library to create a smart contract for a token",
+        "Deployed and verified the smart contract on the Ethereum network",
+        "Used ethers.js to interact with and connect to the smart contract"
+      ]
+    },
+    {
+      "company": "NFT Marketplace (personal project)",
+      "position": "Blockchain Developer",
+      "website": "",
+      "startDate": "2023-04-01",
+      "endDate": "2023-06-01",
+      "summary": "Core: JavaScript, Solidity, HTML. Technology: ETH, MetaMask, Hardhat, React.js, OpenZeppelin.",
+      "highlights": [
+        "Researched and self-learned ETH, Solidity, and OpenZeppelin frameworks",
+        "Used OpenZeppelin's ERC721 library to create a smart contract for an NFT marketplace",
+        "Used web3.js and ethers.js to interact with and connect to the smart contract"
+      ]
+    },
+    {
+      "company": "Deploying Configuration and Security Services on Linux",
+      "position": "System Administration Project",
+      "website": "",
+      "startDate": "2023-02-01",
+      "endDate": "2023-04-01",
+      "summary": "Tools: CentOS 7, Windows XP, Windows 7.",
+      "highlights": [
+        "Installed monitoring tools: Cacti, Wireshark, Munin",
+        "Configured DNS, HTTP, DHCP, and FTP services",
+        "Installed NFS, VNC, SAMBA, MySQL, and SYSLOG servers",
+        "Researched and installed RAID"
+      ]
+    },
+    {
+      "company": "Transactions and Transaction Verification Using Smart Contracts",
+      "position": "Blockchain Developer",
+      "website": "",
+      "startDate": "2022-10-01",
+      "endDate": "2022-12-01",
+      "summary": "Core: JavaScript, Solidity, HTML. Technology: ETH, MetaMask, Hardhat, React.js, Tailwind CSS.",
+      "highlights": [
+        "Researched and self-learned ETH and Solidity through YouTube and Google",
+        "Spent two weeks fixing Web3 connection bugs",
+        "Delivered a fully automated, secure smart contract using Solidity",
+        "3rd place winner, Hutech Got Talent competition, Group A"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Ajou University",
+      "area": "Korean Language Program",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2024-09-01",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Ho Chi Minh City University of Technology",
+      "area": "Information Security",
+      "studyType": "Engineer's Degree",
+      "startDate": "2019-09-01",
+      "endDate": "2024-04-01",
+      "gpa": "3.09/4.0",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Solidity",
+      "level": "",
+      "keywords": ["Smart contract development"]
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": ["Mobile app development"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "Basic",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Communication and reading comprehension"
+    },
+    {
+      "language": "Korean",
+      "fluency": "TOPIK 4"
+    }
+  ],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
