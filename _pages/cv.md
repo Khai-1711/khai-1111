@@ -13,7 +13,7 @@ redirect_from:
 
 # Education
 
-- Master’s Degree in Computer Engineering, Hansung University, 09/2026 – Present
+- Master's Degree in Computer Engineering, Hansung University, 09/2026 – Present
 - Korean Language Program, Ajou University, 09/2024 – 08/2026
 - The Degree of Engineer in Information Security, Ho Chi Minh City University of Technology, 09/2019 – 04/2024 (GPA: 3.09/4.0)
 
@@ -66,21 +66,3 @@ redirect_from:
 
 - 3rd Place Winner of Hutech Got Talent Competition in Group A
 - Korean TOPIK 4
-
-# Publications
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
