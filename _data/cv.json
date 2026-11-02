@@ -2,9 +2,9 @@
   "basics": {
     "name": "Nguyen Dinh Khai",
     "email": "khai129031@gmail.com",
-    "phone": "010-8058-1701",
+    "phone": "010.8058.1701",
     "website": "https://khai-1711.github.io/khai-1111",
-    "summary": "Master student at Hansung University with a background in Information Security and hands-on experience building Ethereum smart contracts and Web3 applications.",
+    "summary": "Master's student in Computer Engineering at Hansung University with a background in Information Security and hands-on experience building Ethereum smart contracts and Web3 applications.",
     "location": {
       "address": "Woncheon-dong",
       "postalCode": "",
@@ -39,10 +39,10 @@
       "endDate": "2023-09-01",
       "summary": "Core: TypeScript, Solidity, HTML, CSS. Technology: ETH, Hardhat, React.js, OpenZeppelin, Tailwind CSS.",
       "highlights": [
-        "Coded the entire UI for an exchange web platform used for trading the VNSe token",
-        "Used OpenZeppelin's ERC20 library to create a smart contract for a token",
-        "Deployed and verified the smart contract on the Ethereum network",
-        "Used ethers.js to interact with and connect to the smart contract"
+        "Coded entire UI for an exchange web platform used for trading Token VNSe",
+        "Used OpenZeppelin's ERC20 library to create a smart contract for a Token",
+        "Deployed and verified smart contract on the Ethereum network",
+        "Used ethers.js libraries to interact with and connect to the smart contract"
       ]
     },
     {
@@ -53,9 +53,9 @@
       "endDate": "2023-06-01",
       "summary": "Core: JavaScript, Solidity, HTML. Technology: ETH, MetaMask, Hardhat, React.js, OpenZeppelin.",
       "highlights": [
-        "Researched and self-learned ETH, Solidity, and OpenZeppelin frameworks",
+        "Researched and self-learned ETH, Solidity and OpenZeppelin frameworks",
         "Used OpenZeppelin's ERC721 library to create a smart contract for an NFT marketplace",
-        "Used web3.js and ethers.js to interact with and connect to the smart contract"
+        "Used web3.js and ethers.js libraries to interact with and connect to the smart contract"
       ]
     },
     {
@@ -67,8 +67,8 @@
       "summary": "Tools: CentOS 7, Windows XP, Windows 7.",
       "highlights": [
         "Installed monitoring tools: Cacti, Wireshark, Munin",
-        "Configured DNS, HTTP, DHCP, and FTP services",
-        "Installed NFS, VNC, SAMBA, MySQL, and SYSLOG servers",
+        "Configured DNS, HTTP, DHCP, FTP services",
+        "Installed NFS server, VNC server, SAMBA server, MySQL server, SYSLOG server",
         "Researched and installed RAID"
       ]
     },
@@ -80,68 +80,72 @@
       "endDate": "2022-12-01",
       "summary": "Core: JavaScript, Solidity, HTML. Technology: ETH, MetaMask, Hardhat, React.js, Tailwind CSS.",
       "highlights": [
-        "Researched and self-learned ETH and Solidity through YouTube and Google",
-        "Spent two weeks fixing Web3 connection bugs",
-        "Delivered a fully automated, secure smart contract using Solidity",
-        "3rd place winner, Hutech Got Talent competition, Group A"
+        "Researched and self-learned ETH and Solidity frameworks through YouTube and Google",
+        "Spent 2 weeks fixing bugs with Web3 connection issues",
+        "Delivered a completely automated and secure smart contract using Solidity",
+        "3rd place winner of Hutech Got Talent competition in Group A"
       ]
     }
   ],
   "education": [
     {
+      "institution": "Hansung University",
+      "area": "Master’s Degree in Computer Engineering",
+      "studyType": "Master's Degree",
+      "startDate": "2026-09-01",
+      "endDate": "09/2026 – Present",
+      "gpa": null,
+      "courses": []
+    },
+    {
       "institution": "Ajou University",
       "area": "Korean Language Program",
-      "studyType": "",
+      "studyType": "Language Program",
       "startDate": "2024-09-01",
-      "endDate": "",
+      "endDate": "09/2024 – 08/2026",
       "gpa": null,
       "courses": []
     },
     {
       "institution": "Ho Chi Minh City University of Technology",
       "area": "Information Security",
-      "studyType": "Engineer's Degree",
+      "studyType": "The degree of engineer",
       "startDate": "2019-09-01",
-      "endDate": "2024-04-01",
+      "endDate": "09/2019 – 04/2024",
       "gpa": "3.09/4.0",
       "courses": []
     }
   ],
   "skills": [
     {
-      "name": "Solidity",
+      "name": "Programming Languages & Technologies",
       "level": "",
-      "keywords": ["Smart contract development"]
+      "keywords": [
+        "Solidity: Smart Contract Development",
+        "Java: Mobile App Development",
+        "JavaScript",
+        "C#",
+        "Python: basic"
+      ]
     },
     {
-      "name": "Java",
+      "name": "Soft Skills",
       "level": "",
-      "keywords": ["Mobile app development"]
-    },
-    {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "C#",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Python",
-      "level": "Basic",
-      "keywords": []
+      "keywords": [
+        "English communication and reading comprehension skills",
+        "Korean communication and reading comprehension skills",
+        "Communication and teamwork skills"
+      ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Communication and reading comprehension"
+      "fluency": "Communication and reading comprehension skills"
     },
     {
       "language": "Korean",
-      "fluency": "TOPIK 4"
+      "fluency": "TOPIK 4, Communication and reading comprehension skills"
     }
   ],
   "interests": [],
@@ -149,5 +153,34 @@
   "publications": [],
   "presentations": [],
   "teaching": [],
-  "portfolio": []
+  "portfolio": [
+    {
+      "name": "VNS Exchange",
+      "category": "Web3 Platform & Smart Contract",
+      "date": "2023-09-01",
+      "description": "Exchange web platform for trading Token VNSe with OpenZeppelin ERC20 smart contract deployed on Ethereum, React UI, and ethers.js integration.",
+      "url": "https://github.com/Khai-1711"
+    },
+    {
+      "name": "NFT Marketplace",
+      "category": "Blockchain",
+      "date": "2023-06-01",
+      "description": "NFT marketplace with OpenZeppelin ERC721 smart contracts, MetaMask wallet integration, Hardhat, React.js, and web3.js / ethers.js.",
+      "url": "https://github.com/Khai-1711"
+    },
+    {
+      "name": "Linux Configuration and Security Services",
+      "category": "System Administration & Security",
+      "date": "2023-04-01",
+      "description": "Deployment and monitoring on CentOS 7: DNS, HTTP, DHCP, FTP, NFS, VNC, SAMBA, MySQL, SYSLOG, RAID, Cacti, Wireshark, and Munin.",
+      "url": ""
+    },
+    {
+      "name": "Transactions and Transaction Verification Using Smart Contracts",
+      "category": "Blockchain / Award Winner",
+      "date": "2022-12-01",
+      "description": "Automated and secure smart contracts using Solidity, MetaMask, React.js, and Tailwind CSS. 3rd Place Winner at Hutech Got Talent (Group A).",
+      "url": "https://github.com/Khai-1711"
+    }
+  ]
 }

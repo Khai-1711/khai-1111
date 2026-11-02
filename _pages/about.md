@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Khai, an Information Security engineer originally from Vietnam, currently based in Suwon, South Korea, where I'm a Master student at Hansung University. My background is in security and blockchain development, and I'm now transitioning toward AI and Data.
+I'm Khai, an Information Security engineer originally from Vietnam, currently based in Suwon, South Korea, where I'm a Master's student in Computer Engineering at Hansung University. My background is in security and blockchain development, and I'm now transitioning toward AI and Data.
 
-I graduated from Ho Chi Minh City University of Technology with an Engineer's Degree in Information Security. Along the way, I built hands-on experience with Ethereum smart contracts, Web3 applications, and Linux system administration — work that gave me a solid foundation in programming, problem-solving, and working with systems and data at a technical level.
+I graduated from Ho Chi Minh City University of Technology with the Degree of Engineer in Information Security (GPA: 3.09/4.0). Along the way, I built hands-on experience with Ethereum smart contracts, Web3 applications, and Linux system administration — work that gave me a solid foundation in programming, problem-solving, and working with systems and data at a technical level.
 
 ## Where I'm headed
 

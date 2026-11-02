@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+<p><a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" target="_blank"><i class="fas fa-file-pdf"></i> Download Resume (PDF)</a></p>
+
 # Education
 
-- Master of Science in Computer Science, Hansung University 09/2026 - Present
-- Korean Language Program, Ajou University, 09/2024 – 07/2026
-- Engineer's Degree in Information Security, Ho Chi Minh City University of Technology, 09/2019 – 04/2024 (GPA: 3.09/4.0)
+- Master’s Degree in Computer Engineering, Hansung University, 09/2026 – Present
+- Korean Language Program, Ajou University, 09/2024 – 08/2026
+- The Degree of Engineer in Information Security, Ho Chi Minh City University of Technology, 09/2019 – 04/2024 (GPA: 3.09/4.0)
 
 # Work experience
 
@@ -49,16 +51,20 @@ redirect_from:
 
 # Skills
 
-- Solidity: Smart contract development
-- Java: Mobile app development
-- JavaScript
-- C#
-- Python (basic)
-- Soft skills: English and Korean communication, reading comprehension, teamwork
+- **Programming Languages & Technologies:**
+  - Solidity: Smart Contract Development
+  - Java: Mobile App Development
+  - JavaScript
+  - C#
+  - Python: basic
+- **Soft Skills:**
+  - English communication and reading comprehension skills
+  - Korean communication and reading comprehension skills
+  - Communication and teamwork skills
 
 # Certifications
 
-- 3rd Place Winner, Hutech Got Talent Competition, Group A
+- 3rd Place Winner of Hutech Got Talent Competition in Group A
 - Korean TOPIK 4
 
 # Publications

@@ -27,11 +27,11 @@ author:
   avatar: "profile.png"
   name: "Nguyen Dinh Khai"
   pronouns: "he/him"
-  bio: "Master student at Hansung University"
-  location: "수원시"
-  employer: "Master student"
+  bio: "Master's student in Computer Engineering at Hansung University"
+  location: "Woncheon-dong, Suwon"
+  employer: "Hansung University"
   uri: # URL
-  email: "Khai129031@gmail.com"
+  email: "khai129031@gmail.com"
 
   # Academic websites
   academia: # URL
